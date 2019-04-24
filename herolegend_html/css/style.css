@@ -1586,7 +1586,7 @@ section{background:#fff;}
 }
 
 .panel-heading [data-toggle="collapse"]:after {
-	content: "\f123";
+	content: "\f10b";
 	font-family: Flaticon;
 	float: right;
 	font-size: 18px;
@@ -1665,7 +1665,7 @@ hr {border-top: 2px dotted #cecece;}
 }
 
 .hr:before {
-	content: "\f111";
+	content: "\f100";
 	font-family: 'Flaticon';
 	font-weight: normal;
 	position: relative;

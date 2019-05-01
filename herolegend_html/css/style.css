@@ -134,6 +134,10 @@ a:focus {text-decoration: none;}
 .subtitle {
 	font-size: 17px;
 	line-height:26px;
+
+	/*Test shadow effect*/
+	color: #fff;
+  text-shadow: 1px 1px 8px #aa1428;
 }
  
 .text-light {color: #fff;}

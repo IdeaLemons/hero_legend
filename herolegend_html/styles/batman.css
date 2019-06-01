@@ -1,9 +1,9 @@
 /*
 Template Name: Hero Legend
-Color style: Candy
+Color style: Batman
 */
 
-/*________ Pink-ish ________  */
+/*________ Pink ________  */
 
 .loader span,
 .btn,
@@ -30,7 +30,7 @@ Color style: Candy
 #menu h3,
 .object-load,
 .blog-tags a
-{background-color:#FF4E50;}
+{background-color:#e66f7f;}
  
 a,
 #contact i,
@@ -44,7 +44,7 @@ a,
 .navbar-custom ul.nav li a:hover,
 .navbar-custom .nav > .active > a ,
 h3
-{color:#FF4E50;}
+{color:#e66f7f;}
 
 .gallery-thumb:hover .overlay-mask,
 .img-circle.border,
@@ -53,9 +53,9 @@ h3
 .social-media i,
 .color-section .form-control,
 .featured-package:hover
-{border-color:#FF4E50;}
+{border-color:#e66f7f;}
 
-/*________  Orange  ________  */
+/*________  Lilac ________  */
 
 a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover,
 .navbar-toggle,
@@ -88,7 +88,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 .nav.nav-tabs>li.active>a,
 .post-comment,
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover
-{background-color:#FC913A;}
+{background-color:#c694ce;}
 
 h1,
 #about .media i:hover,
@@ -109,7 +109,7 @@ blockquote:before,
 .panel-heading a:focus,
 .panel-heading a.active,
 .panel-heading a
-{color:#FC913A;}
+{color:#c694ce;}
 
 .team-member .profile-image,
 .btn:hover,.btn:focus,
@@ -124,9 +124,9 @@ blockquote:before,
 .navbar-custom .nav > .active > a,
 .color-section h2,
 .tab-content
-{border-color:#FC913A;}
+{border-color:#c694ce;}
 
-/*________  Light Yellow ________  */
+/*________  Light Gray ________  */
 
 .color-section2,
 .tab-content,
@@ -142,7 +142,7 @@ blockquote:before,
 .package:hover,
 .box_icon > .icon > .info,
 #loading
-{background-color:#f7eee2;}
+{background-color:#FAF6F2;}
 
 .breadcrumb>.active,
 .breadcrumb a:hover,
@@ -151,7 +151,7 @@ blockquote:before,
 .color-section .hr:before,
 .testimonial .testimonial-title,
 .color-section a:hover
-{color: #f7eee2;}
+{color: #FAF6F2;}
 
 h2,
 .well,
@@ -159,4 +159,4 @@ h2,
 .table>tfoot>tr>td, .table>tfoot>tr>th,
 .table>thead>tr>td, .table>thead>tr>th,
 .comment
-{border-color: #f7eee2;}
+{border-color: #FAF6F2;}

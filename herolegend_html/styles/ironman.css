@@ -1,9 +1,9 @@
 /*
 Template Name: Hero Legend
-Color style: Chocopink
+Color style: Ironman
 */
 
-/*________ Brown ________  */
+/*________ Pink-ish ________  */
 
 .loader span,
 .btn,
@@ -30,7 +30,7 @@ Color style: Chocopink
 #menu h3,
 .object-load,
 .blog-tags a
-{background-color:#562832;}
+{background-color:#FF4E50;}
  
 a,
 #contact i,
@@ -44,7 +44,7 @@ a,
 .navbar-custom ul.nav li a:hover,
 .navbar-custom .nav > .active > a ,
 h3
-{color:#562832;}
+{color:#FF4E50;}
 
 .gallery-thumb:hover .overlay-mask,
 .img-circle.border,
@@ -53,9 +53,9 @@ h3
 .social-media i,
 .color-section .form-control,
 .featured-package:hover
-{border-color:#562832;}
+{border-color:#FF4E50;}
 
-/*________  Pink  ________  */
+/*________  Orange  ________  */
 
 a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover,
 .navbar-toggle,
@@ -88,7 +88,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 .nav.nav-tabs>li.active>a,
 .post-comment,
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover
-{background-color:#D56676;}
+{background-color:#FC913A;}
 
 h1,
 #about .media i:hover,
@@ -109,7 +109,7 @@ blockquote:before,
 .panel-heading a:focus,
 .panel-heading a.active,
 .panel-heading a
-{color:#D56676;}
+{color:#FC913A;}
 
 .team-member .profile-image,
 .btn:hover,.btn:focus,
@@ -124,9 +124,9 @@ blockquote:before,
 .navbar-custom .nav > .active > a,
 .color-section h2,
 .tab-content
-{border-color:#D56676;}
+{border-color:#FC913A;}
 
-/*________  Light Pink ________  */
+/*________  Light Yellow ________  */
 
 .color-section2,
 .tab-content,
@@ -142,7 +142,7 @@ blockquote:before,
 .package:hover,
 .box_icon > .icon > .info,
 #loading
-{background-color:#f6e0e3;}
+{background-color:#f7eee2;}
 
 .breadcrumb>.active,
 .breadcrumb a:hover,
@@ -151,7 +151,7 @@ blockquote:before,
 .color-section .hr:before,
 .testimonial .testimonial-title,
 .color-section a:hover
-{color: #f6e0e3;}
+{color: #f7eee2;}
 
 h2,
 .well,
@@ -159,4 +159,4 @@ h2,
 .table>tfoot>tr>td, .table>tfoot>tr>th,
 .table>thead>tr>td, .table>thead>tr>th,
 .comment
-{border-color: #f6e0e3;}
+{border-color: #f7eee2;}
